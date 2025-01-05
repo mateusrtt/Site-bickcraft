@@ -53,3 +53,23 @@
 .fonte-1-xxl{
     font: 600 4rem/1.25 'Poppins', sans-serif;
 }
+
+@media (max-width: 1200px){
+    .fonte-1-xxl{
+        font-size: 3rem;
+    }
+    .fonte-2-l,
+    .fonte-2-l-b{
+        font-size: 1.25rem;
+    }
+}
+
+@media (max-width: 800px){
+    .fonte-1-xxl{
+        font-size: 2rem;
+    }
+    .fonte-1-xl,
+    .fonte-2-xl{
+        font-size: 1.25rem;
+    }
+}
