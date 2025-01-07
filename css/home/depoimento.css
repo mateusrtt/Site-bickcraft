@@ -56,4 +56,10 @@
         padding: 40px 20px;
         justify-self: center;
     }
+    .depoimento p::before {
+        left: -50px;
+    }
+    blockquote p{
+        font-size: 15px;
+    }
 }
