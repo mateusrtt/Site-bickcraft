@@ -44,6 +44,15 @@
     content: "”";
 }
 
+@media (min-width: 1200px){
+    .depoimento img{
+        max-height: 520px;
+    }
+    .depoimento-conteudo{
+        background: url("../../img/dec/bottom-right-p.svg") no-repeat bottom 40px right 40px;
+    }
+}
+
 @media (max-width: 800px) {
     .depoimento {
         grid-template-columns: 1fr;
