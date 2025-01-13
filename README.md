@@ -23,7 +23,7 @@ fluida em qualquer dispositivo.
 
 ## Link do projeto
 
-
+https://mateusrtt.github.io/Site-bickcraft/
 
 ![home1](https://github.com/user-attachments/assets/7ebac477-ee18-4591-b930-479a877582d6)
 ![seguro1](https://github.com/user-attachments/assets/3dc6d95e-9678-4680-86cb-a94572c4d521)
